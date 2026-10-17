@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/rospkg/commit/dd46467d3f364446862ec3c972b29d451d450f6b",
       "git:hexsha": "dd46467d3f364446862ec3c972b29d451d450f6b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.6.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.6.3",
+      "repolex:parsedAt": "2026-10-17T22:54:02.235304+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/rospkg/commit/da13e03bf31674ac37ed6d87bb9b90b9c4df576b",
