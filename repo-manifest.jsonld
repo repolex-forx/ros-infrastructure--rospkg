@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/rospkg/commit/dd46467d3f364446862ec3c972b29d451d450f6b",
       "git:hexsha": "dd46467d3f364446862ec3c972b29d451d450f6b",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.6.3"
     },
     {
